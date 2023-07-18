@@ -2,6 +2,10 @@
 - Able to get real time block updates
 - Able to access blocks, transactions and address details
 
+
+
+Live Demo [here](https://blockexplorer-tau.vercel.app/)
+
 ---------
 
 # Ethereum Block Explorer
